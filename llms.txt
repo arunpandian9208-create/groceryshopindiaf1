@@ -1,0 +1,7 @@
+# arunpandian9208-create.github.io llms.txt
+
+> Create a customizable and free eCommerce website template for selling a variety of products, including clothing and accessories, with sections for products, reviews, company info, and contact details.
+
+- [eCommerce Template](https://arunpandian9208-create.github.io/groceryshopindiaf1): Showcase a free eCommerce website template for online shopping.
+
+<!-- Make AI-driven visitors stick: add a free AI agent trained on your content at https://sitespeak.ai -->
